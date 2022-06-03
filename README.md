@@ -1,2 +1,2 @@
-# 2022--ebp-teami
+# 2022-wbp-teami
 wep programming term project
